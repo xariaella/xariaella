@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on luau & lua-based projects.
 - 📫 How to reach me: You can reach me via any public accounts with a similar handle.
 
-Hi.
+You can also reach me via the developer forum, I am quite active there.
 
 <!---
 xariaella/xariaella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
